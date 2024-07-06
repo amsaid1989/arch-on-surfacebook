@@ -1,6 +1,6 @@
 # Installing Arch on Surface Book with Secure Boot
 
-## Quick summary of the steps required
+### Quick summary of the steps required
 
 1) Download Arch installation ISO and create bootable USB
 2) Disable secure boot and boot into Arch installation ISO
