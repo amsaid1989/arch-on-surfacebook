@@ -20,3 +20,5 @@ to
 ```
 extra_kernel_version_strings linux-lts,linux,linux-surface
 ```
+12) Reboot to confirm that you can boot into the surface kernel
+13) Once booted, run `uname -a` and confirm that the kernel name has the word `surface`
